@@ -8,3 +8,8 @@
 5. Fase di elabaorazione
 6. inserisco il risultato nel DOM
  */
+
+//Fase preparatoria
+// Recupero l'elemento in pagina
+const resultElement = document.getElementById('psw');
+console.log(resultElement);
