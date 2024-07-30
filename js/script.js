@@ -26,3 +26,7 @@ console.log(lastName);
 //Favoutie color
 const favouriteColor = prompt('Qual\'é il tuo colore preferito?', "Verde");
 console.log(favouriteColor);
+
+//Fase di elaborazione
+const addedElement = firstName + lastName + favouriteColor + 21;
+console.log(addedElement);
