@@ -30,3 +30,6 @@ console.log(favouriteColor);
 //Fase di elaborazione
 const addedElement = firstName + lastName + favouriteColor + 21;
 console.log(addedElement);
+
+//Mostro il risultato in pagina
+resultElement.innerText = 'La tua nuova password è:' + addedElement;
