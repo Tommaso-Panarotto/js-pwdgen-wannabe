@@ -18,3 +18,7 @@ console.log(resultElement);
 // First Name
 const firstName = prompt('Come ti chiami?', "Tommaso");
 console.log(firstName);
+
+//Last Name
+const lastName = prompt('Qual\'é il tuo cognome?', "Panarotto");
+console.log(lastName);
