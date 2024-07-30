@@ -13,3 +13,8 @@
 // Recupero l'elemento in pagina
 const resultElement = document.getElementById('psw');
 console.log(resultElement);
+
+// Fase raccolta dati
+// First Name
+const firstName = prompt('Come ti chiami?', "Tommaso");
+console.log(firstName);
