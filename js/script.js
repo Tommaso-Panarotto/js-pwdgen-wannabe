@@ -22,3 +22,7 @@ console.log(firstName);
 //Last Name
 const lastName = prompt('Qual\'é il tuo cognome?', "Panarotto");
 console.log(lastName);
+
+//Favoutie color
+const favouriteColor = prompt('Qual\'é il tuo colore preferito?', "Verde");
+console.log(favouriteColor);
